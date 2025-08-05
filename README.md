@@ -116,5 +116,5 @@ The analysis:
 ## 🚀 How to Run  
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/spotify-network-analysis.git
-cd spotify-network-analysis
+git clone https://github.com/CinooGeorge/Spotify-Network-Analysis.git
+cd Spotify-Network-Analysis
